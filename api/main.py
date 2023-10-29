@@ -23,5 +23,4 @@ app.include_router(done.router)
 #   return {"item_id ====>": item_id, "q ====>": q}
 
 # @app.put("/items/{item_id}")
-# def update_item(item_od: int, item: Item):
-#   return {"item_name": item.name, "item_id": item.id}
+# def update_item(item_od: int, item: Item)
